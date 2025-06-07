@@ -17,3 +17,5 @@ A modular Python toolkit for basic penetration testing tasks:
 ```bash
 pip install requests
 python pen_test_toolkit.py
+
+https://github.com/hardikbhati77/PENETRATION-TESTING-TOOLKIT/issues/1#issue-3127028603
